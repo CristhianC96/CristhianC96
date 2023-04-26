@@ -1,39 +1,42 @@
-# Hola, soy [Tu nombre aquí]
+<div style="text-align:center;">
+  <img src="https://media.giphy.com/media/11pIIEAHWERuhi/giphy.gif" style="display:block; margin:auto;">
+</div>
+### Hola 👋 
+### Soy Cristhian Corral!
 
-![Imagen de perfil](https://github.com/[tu_usuario].png)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/tu_usuario)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tu_perfil/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tu_correo@gmail.com)
 
-Soy ingeniero en mecatrónica y apasionado por la programación, especialmente en la plataforma Arduino y la automatización en general. También tengo experiencia en Raspberry Pi y visión artificial.
+¡Bienvenido a mi página de GitHub! Soy Cristhian, un ingeniero mecatrónico con un gran interés en el campo de la automatización y el desarrollo de hardware y software.
 
-## Habilidades
 
-- Programación en Arduino
-- Automatización
-- Diseño de circuitos electrónicos
-- Raspberry Pi
-- Visión artificial
+#### 🌱 En lo que estoy trabajando: 
+- Actualmente trabajo en proyectos de automatización y control de procesos industriales.
+- Estoy estudiando para mejorar mis habilidades en Python, Raspberry Pi y Arduino.
+- Compartiendo conocimientos y experiencias en comunidades de desarrollo en línea.
 
-## Proyectos Destacados
+#### :muscle: Retos personales:
+- Aprendiendo un nuevo idioma.
+- Fortaleciendo mis habilidades sociales.
+- Lectura de al menos un libro por mes.
 
-### [Robot Seguidor de Línea](https://github.com/[tu_usuario]/robot-seguidor-de-linea)
+#### :computer: Lenguajes de programación y herramientas: 
+<p>
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&hide_border=true" />
 
-![Robot Seguidor de Línea](https://raw.githubusercontent.com/[tu_usuario]/robot-seguidor-de-linea/main/img/robot.jpg)
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+</p>
 
-Este proyecto consiste en diseñar y construir un robot que siga una línea negra en una superficie blanca. Se utiliza un microcontrolador Arduino para controlar los motores y un sensor infrarrojo para detectar la línea. El robot puede ser programado para seguir diferentes patrones de línea.
+<sub>Créditos a: <br/>[Nombre del autor de la imagen](URL de la imagen) por la maravillosa [imagen](URL de la imagen)</sub>
 
-### [Invernadero Automatizado](https://github.com/[tu_usuario]/invernadero-automatizado)
-
-![Invernadero Automatizado](https://raw.githubusercontent.com/[tu_usuario]/invernadero-automatizado/main/img/invernadero.jpg)
-
-Este proyecto consiste en diseñar y construir un sistema automatizado para un invernadero, controlando la temperatura, la humedad y la iluminación. Se utilizan sensores para medir estas variables y actuadores para ajustarlas según las necesidades de las plantas. Se utiliza un microcontrolador Arduino para controlar todo el sistema.
-
-### [Detector de Movimiento con Raspberry Pi](https://github.com/[tu_usuario]/detector-de-movimiento-raspberry-pi)
-
-![Detector de Movimiento con Raspberry Pi](https://raw.githubusercontent.com/[tu_usuario]/detector-de-movimiento-raspberry-pi/main/img/raspberry-pi.jpg)
-
-Este proyecto consiste en diseñar y construir un sistema de detección de movimiento utilizando una Raspberry Pi y una cámara. Se utiliza la librería OpenCV para procesar las imágenes y detectar el movimiento. El sistema puede ser configurado para enviar alertas cuando se detecta movimiento.
-
-## Contacto
-
-- Correo electrónico: [tu correo electrónico aquí]
-- LinkedIn: [tu perfil de LinkedIn aquí]
-- Twitter: [tu cuenta de Twitter aquí]
