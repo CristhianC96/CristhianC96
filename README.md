@@ -1,8 +1,8 @@
-<div style="text-align:center;">
-  <img src="https://media.giphy.com/media/11pIIEAHWERuhi/giphy.gif" style="display:block; margin:auto;">
+<div id="header" align="center">
+	<img src="https://media.giphy.com/media/11pIIEAHWERuhi/giphy.gif" width="200" />
+	<h1 align="center">Hi👋, I'm Cristhian! 
 </div>
-### Hola 👋 
-### Soy Cristhian Corral!
+
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/tu_usuario)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tu_perfil/)
